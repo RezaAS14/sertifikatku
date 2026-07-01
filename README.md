@@ -8,10 +8,10 @@
 
 ---
 
-## 1. Dari Lembaga Kursus Dan Pendidikan Potensi Nusantara (2024/12/11)
+## 1. Dari CSIRT Institut Teknologi Bandung (ITB) (2026/Febuari/03)
 
 <!-- Ganti path/nama_file_1.png dengan lokasi gambar sertifikat pertama kamu -->
-<img src="path/nama_file_1.png" width="100%" alt="Sertifikat Potensi Nusantara">
+<img src="CSIRT-ITB-AhmadRezaAuliaSiregar-GoldCertificate.jpg" width="100%" alt="Sertifikat Apresiasi ITB">
 
 ---
 
