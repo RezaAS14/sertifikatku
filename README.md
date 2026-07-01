@@ -11,7 +11,7 @@
 ## 1. Dari CSIRT Institut Teknologi Bandung (ITB) (2026/Febuari/03)
 
 <!-- Ganti path/nama_file_1.png dengan lokasi gambar sertifikat pertama kamu -->
-<img src="CSIRT-ITB-AhmadRezaAuliaSiregar-GoldCertificate.jpg" width="100%" alt="Sertifikat Apresiasi ITB">
+<img src="[CSIRT-ITB-AhmadRezaAuliaSiregar-GoldCertificate.jpg](https://github.com/RezaAS14/sertifikatku/blob/main/CSIRT-ITB-AhmadRezaAuliaSiregar-GoldCertificate.jpg)" width="100%" alt="Sertifikat Apresiasi ITB">
 
 ---
 
