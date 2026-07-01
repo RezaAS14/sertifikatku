@@ -66,6 +66,13 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#4-csirt-komisi-penyiaran-indonesia-kpi-pusat">Lihat</a></td>
   </tr>
+   <tr>
+    <td>5</td>
+    <td>CSIRT Dinas Komunikasi dan Informatika Pemerintah Kota Bandung</td>
+    <td>09 April 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#5-csirt-dinas-komunikasi-dan-informatika-pemerintah-kota-bandung">Lihat</a></td>
+  </tr>
 </table>
 
 ---
@@ -116,6 +123,16 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
     <td><img src="./20250612145734-Surat-Apresiasi-Partisipasi-Kerentanan-Keamanan-Siber-batch3-AhmadRezaAuliaSiregar-1.jpg" alt="Surat Apresiasi Resmi KPI" width="380"></td>
   </tr>
 </table>
+
+---
+
+### 5. CSIRT Dinas Komunikasi dan Informatika Pemerintah Kota Bandung
+**Tanggal:** 09 April 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./csirt-kota-bandung.jpg" alt="Sertifikat Apresiasi CSIRT Diskominfo Kota Bandung" width="700">
+</p>
 
 ---
 
