@@ -22,16 +22,8 @@
 **Jenis:** Gold Certificate
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RezaAS14/sertifikatku/main/CSIRT-ITB-AhmadRezaAuliaSiregar-GoldCertificate.jpg" width="100%" alt="Sertifikat Apresiasi CSIRT ITB">
+  <img src="CSIRT-ITB-AhmadRezaAuliaSiregar-GoldCertificate.jpg" width="100%" alt="Sertifikat Apresiasi CSIRT ITB">
 </p>
-
-<details>
-<summary>📎 Lihat file asli / klik untuk membuka</summary>
-<br>
-
-[Buka sertifikat di GitHub](https://github.com/RezaAS14/sertifikatku/blob/main/CSIRT-ITB-AhmadRezaAuliaSiregar-GoldCertificate.jpg)
-
-</details>
 
 ---
 
