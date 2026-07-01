@@ -23,6 +23,10 @@
 
 ![Sertifikat Apresiasi CSIRT ITB](./CSIRT-ITB-AhmadRezaAuliaSiregar-GoldCertificate.jpg)
 
+### 2. CSIRT Dinas Komunikasi dan Informatika Kota Depok
+**Tanggal:** 18 Juli 2025
+
+![Sertifikat Apresiasi CSIRT Kota Depok](./SertifikatPersandian(AhmadRezaAuliaSiregar)Depok.png)
 ---
 
 <p align="center">
