@@ -52,6 +52,13 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="./SertifikatPersandian(AhmadRezaAuliaSiregar)Depok.png">Lihat Sertifikat</a></td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>CSIRT Universitas Airlangga (Unair)</td>
+    <td>05 Juli 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="./Sertifikat-Univ-Airlangga-Ahmad-Reza-Aulia-Siregar.png">Lihat Sertifikat</a></td>
+  </tr>
 </table>
 
 ### 1. CSIRT Institut Teknologi Bandung (ITB)
@@ -70,6 +77,16 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
 
 <p align="center">
   <img src="./SertifikatPersandian(AhmadRezaAuliaSiregar)Depok.png" alt="Sertifikat Apresiasi CSIRT Kota Depok" width="700">
+</p>
+
+---
+
+### 3. CSIRT Universitas Airlangga
+**Tanggal:** 05 Juli 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./Sertifikat-Univ-Airlangga-Ahmad-Reza-Aulia-Siregar.png" alt="Sertifikat Apresiasi CSIRT Universitas Airlangga" width="700">
 </p>
 
 ---
