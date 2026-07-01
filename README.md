@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bug%20Hunter-Active-brightgreen?style=for-the-badge" alt="Bug Hunter Badge">
-  <img src="https://img.shields.io/badge/Certificates-2-blue?style=for-the-badge" alt="Certificate Count">
+  <img src="https://img.shields.io/badge/Certificates-4-blue?style=for-the-badge" alt="Certificate Count">
   <img src="https://img.shields.io/badge/Focus-Vulnerability%20Reporting-orange?style=for-the-badge" alt="Focus Badge">
 </p>
 
@@ -43,30 +43,32 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>CSIRT Institut Teknologi Bandung (ITB)</td>
     <td>03 Februari 2026</td>
     <td>🥇 Gold Certificate</td>
-    <td><a href="./CSIRT-ITB-AhmadRezaAuliaSiregar-GoldCertificate.jpg">Lihat Sertifikat</a></td>
+    <td><a href="#1-csirt-institut-teknologi-bandung-itb">Lihat</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>CSIRT Dinas Komunikasi dan Informatika Kota Depok</td>
     <td>18 Juli 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
-    <td><a href="./SertifikatPersandian(AhmadRezaAuliaSiregar)Depok.png">Lihat Sertifikat</a></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>CSIRT Universitas Airlangga (Unair)</td>
-    <td>05 Juli 2025</td>
-    <td>🎖️ Certificate of Appreciation</td>
-    <td><a href="./Sertifikat-Univ-Airlangga-Ahmad-Reza-Aulia-Siregar.png">Lihat Sertifikat</a></td>
+    <td><a href="#2-csirt-dinas-komunikasi-dan-informatika-kota-depok">Lihat</a></td>
   </tr>
   <tr>
     <td>3</td>
-    <td>CSIRT Komisi Penyiaran Indonesia (KPI)</td>
+    <td>CSIRT Universitas Airlangga (Unair)</td>
+    <td>05 Juli 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#3-csirt-universitas-airlangga-unair">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>CSIRT Komisi Penyiaran Indonesia (KPI) Pusat</td>
     <td>11 Juni 2025</td>
-    <td>🎖️ Certificate of Appreciatio</td>
-    <td><a href="./20250611215317tanda apresiasi-ahmadrezaauliasiregar-1.png">Lihat Sertifikat</a></td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#4-csirt-komisi-penyiaran-indonesia-kpi-pusat">Lihat</a></td>
   </tr>
 </table>
+
+---
 
 ### 1. CSIRT Institut Teknologi Bandung (ITB)
 **Tanggal:** 03 Februari 2026
@@ -88,7 +90,7 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
 
 ---
 
-### 3. CSIRT Universitas Airlangga
+### 3. CSIRT Universitas Airlangga (Unair)
 **Tanggal:** 05 Juli 2025
 **Jenis:** Certificate of Appreciation
 
@@ -98,14 +100,22 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
 
 ---
 
-
-### 3. CSIRT Komisi Penyiaran Indonesia (KPI)
-**Tanggal:** 11 Juli 2025
+### 4. CSIRT Komisi Penyiaran Indonesia (KPI) Pusat
+**Tanggal:** 11 Juni 2025
 **Jenis:** Certificate of Appreciation
 
-<p align="center">
-  <img src="./20250611215317tanda apresiasi-ahmadrezaauliasiregar-1.png" alt="Sertifikat Apresiasi CSIRT Komisi Penyiaran Indonesia" width="700">
-</p>
+Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengantar dari Sekretariat KPI Pusat.
+
+<table align="center">
+  <tr>
+    <th align="center">🏅 Sertifikat Apresiasi</th>
+    <th align="center">✉️ Surat Apresiasi Resmi</th>
+  </tr>
+  <tr>
+    <td><img src="./20250611215317tanda_apresiasi-ahmadrezaauliasiregar-1.png" alt="Sertifikat Apresiasi KPI" width="380"></td>
+    <td><img src="./20250612145734-Surat-Apresiasi-Partisipasi-Kerentanan-Keamanan-Siber-batch3-AhmadRezaAuliaSiregar-1.jpg" alt="Surat Apresiasi Resmi KPI" width="380"></td>
+  </tr>
+</table>
 
 ---
 
