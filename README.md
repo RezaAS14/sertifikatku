@@ -112,7 +112,7 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
     <th align="center">✉️ Surat Apresiasi Resmi</th>
   </tr>
   <tr>
-    <td><img src="./20250611215317tanda_apresiasi-ahmadrezaauliasiregar-1.png" alt="Sertifikat Apresiasi KPI" width="380"></td>
+    <td><img src="./20250611215317tanda apresiasi-ahmadrezaauliasiregar-1.png" alt="Sertifikat Apresiasi KPI" width="380"></td>
     <td><img src="./20250612145734-Surat-Apresiasi-Partisipasi-Kerentanan-Keamanan-Siber-batch3-AhmadRezaAuliaSiregar-1.jpg" alt="Surat Apresiasi Resmi KPI" width="380"></td>
   </tr>
 </table>
