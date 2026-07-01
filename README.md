@@ -3,7 +3,7 @@
 <p align="center">
   <b>Visitor Count</b><br>
   <!-- Ganti 'username' dan 'repo' sesuai dengan akun GitHub kamu -->
-  <img src="https://profile-counter.glitch.me/{username}/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/{RezaAS14}/count.svg" alt="Visitor Count">
 </p>
 
 ---
