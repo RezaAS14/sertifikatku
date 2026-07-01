@@ -21,9 +21,7 @@
 **Tanggal:** 03 Februari 2026
 **Jenis:** Gold Certificate
 
-<p align="center">
-  <img src="CSIRT-ITB-AhmadRezaAuliaSiregar-GoldCertificate.jpg" width="100%" alt="Sertifikat Apresiasi CSIRT ITB">
-</p>
+![Sertifikat Apresiasi CSIRT ITB](./CSIRT-ITB-AhmadRezaAuliaSiregar-GoldCertificate.jpg)
 
 ---
 
