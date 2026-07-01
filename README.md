@@ -74,6 +74,12 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#5-csirt-dinas-komunikasi-dan-informatika-pemerintah-kota-bandung">Lihat</a></td>
   </tr>
+  <td>6</td>
+    <td>CSIRT Pemerintah Provinsi Bali</td>
+    <td>20 Maret 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#6-csirt-pemerintah-provinsi-bali">Lihat</a></td>
+  </tr>
 </table>
 
 ---
@@ -137,6 +143,16 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 6. CSIRT Pemerintah Provinsi Bali
+**Tanggal:** 20 Maret 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./csirt-pemprov-bali.jpg" alt="Sertifikat Apresiasi CSIRT Pemerintah Provinsi Bali" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -150,7 +166,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>6</td>
+    <td>7</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
@@ -160,7 +176,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 6. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 7. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
