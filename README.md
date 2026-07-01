@@ -10,12 +10,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bug%20Hunter-Active-brightgreen?style=for-the-badge" alt="Bug Hunter Badge">
-  <img src="https://img.shields.io/badge/Certificates-4-blue?style=for-the-badge" alt="Certificate Count">
+  <img src="https://img.shields.io/badge/Certificates-6-blue?style=for-the-badge" alt="Certificate Count">
   <img src="https://img.shields.io/badge/Focus-Vulnerability%20Reporting-orange?style=for-the-badge" alt="Focus Badge">
 </p>
 
 <p align="center">
-  <a href="#-daftar-sertifikat">Daftar Sertifikat</a> •
+  <a href="#-sertifikat-csirt--keamanan-siber">Sertifikat CSIRT</a> •
+  <a href="#-penghargaan-lainnya">Penghargaan Lainnya</a> •
   <a href="#-tentang">Tentang</a> •
   <a href="#-kontak">Kontak</a>
 </p>
@@ -24,11 +25,11 @@
 
 ## 📖 Tentang
 
-Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari berbagai CSIRT (Computer Security Incident Response Team) dan institusi lainnya, sebagai bentuk pengakuan atas laporan kerentanan keamanan yang saya temukan secara *responsible disclosure*.
+Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari berbagai CSIRT (Computer Security Incident Response Team) dan institusi lainnya, sebagai bentuk pengakuan atas laporan kerentanan keamanan yang saya temukan secara *responsible disclosure*, serta penghargaan lain di luar konteks keamanan siber.
 
 ---
 
-## 📜 Daftar Sertifikat
+## 🛡️ Sertifikat CSIRT / Keamanan Siber
 
 <table>
   <tr>
@@ -66,7 +67,7 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#4-csirt-komisi-penyiaran-indonesia-kpi-pusat">Lihat</a></td>
   </tr>
-   <tr>
+  <tr>
     <td>5</td>
     <td>CSIRT Dinas Komunikasi dan Informatika Pemerintah Kota Bandung</td>
     <td>09 April 2026</td>
@@ -119,7 +120,7 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
     <th align="center">✉️ Surat Apresiasi Resmi</th>
   </tr>
   <tr>
-    <td><img src="./20250611215317tanda apresiasi-ahmadrezaauliasiregar-1.png" alt="Sertifikat Apresiasi KPI" width="380"></td>
+    <td><img src="./20250611215317tanda_apresiasi-ahmadrezaauliasiregar-1.png" alt="Sertifikat Apresiasi KPI" width="380"></td>
     <td><img src="./20250612145734-Surat-Apresiasi-Partisipasi-Kerentanan-Keamanan-Siber-batch3-AhmadRezaAuliaSiregar-1.jpg" alt="Surat Apresiasi Resmi KPI" width="380"></td>
   </tr>
 </table>
@@ -132,6 +133,39 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 <p align="center">
   <img src="./csirt-kota-bandung.jpg" alt="Sertifikat Apresiasi CSIRT Diskominfo Kota Bandung" width="700">
+</p>
+
+---
+
+## 🎓 Penghargaan Lainnya
+
+Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
+
+<table>
+  <tr>
+    <th>No</th>
+    <th>Institusi</th>
+    <th>Tanggal</th>
+    <th>Jenis</th>
+    <th>Sertifikat</th>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>SMK Muhammadiyah Majenang</td>
+    <td>03 September 2025</td>
+    <td>🎖️ Sertifikat Penghargaan</td>
+    <td><a href="#6-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+  </tr>
+</table>
+
+---
+
+### 6. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+**Tanggal:** 03 September 2025
+**Jenis:** Sertifikat Penghargaan
+
+<p align="center">
+  <img src="./sertifikat-penghargaan_SMK-Muhammadiyah-Majenang.jpg" alt="Sertifikat Penghargaan SMK Muhammadiyah Majenang" width="700">
 </p>
 
 ---
