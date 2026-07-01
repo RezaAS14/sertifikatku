@@ -59,6 +59,13 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="./Sertifikat-Univ-Airlangga-Ahmad-Reza-Aulia-Siregar.png">Lihat Sertifikat</a></td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>CSIRT Komisi Penyiaran Indonesia (KPI)</td>
+    <td>11 Juni 2025</td>
+    <td>🎖️ Certificate of Appreciatio</td>
+    <td><a href="./20250611215317tanda apresiasi-ahmadrezaauliasiregar-1.png">Lihat Sertifikat</a></td>
+  </tr>
 </table>
 
 ### 1. CSIRT Institut Teknologi Bandung (ITB)
@@ -87,6 +94,17 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
 
 <p align="center">
   <img src="./Sertifikat-Univ-Airlangga-Ahmad-Reza-Aulia-Siregar.png" alt="Sertifikat Apresiasi CSIRT Universitas Airlangga" width="700">
+</p>
+
+---
+
+
+### 3. CSIRT Komisi Penyiaran Indonesia (KPI)
+**Tanggal:** 11 Juli 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./20250611215317tanda apresiasi-ahmadrezaauliasiregar-1.png" alt="Sertifikat Apresiasi CSIRT Komisi Penyiaran Indonesia" width="700">
 </p>
 
 ---
