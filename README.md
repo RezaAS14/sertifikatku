@@ -140,6 +140,12 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#16-Sertifikat_Apresiasi_Pemerintah_Kota_Gorontalo">Lihat</a></td>
   </tr>
+  <td>17</td>
+    <td>Dinas Komunikasi Dan Informatika Pemerintah Kabupaten Bantul</td>
+    <td>29 Agustus 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#17-Sertifikat-Dinas-Komunikasi-Dan-Informatika-Pemerintah-Kabupaten-Bantul">Lihat</a></td>
+  </tr>
 </table>
 
 ---
@@ -313,6 +319,16 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 17. Dinas Komunikasi Dan Informatika Pemerintah Kabupaten Bantul
+**Tanggal:** 29 Agustus 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./Sertifikat-Dinas-Komunikasi-Dan-Informatika-Pemerintah-Kabupaten-Bantul.jpg" alt="Dinas Komunikasi Dan Informatika Pemerintah Kabupaten Bantul" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -326,24 +342,24 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>17</td>
+    <td>18</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#17-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
+    <td><a href="#18-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
-    <td>18</td>
+    <td>19</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#18-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#19-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 17. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 18. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -353,7 +369,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 18. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 19. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
