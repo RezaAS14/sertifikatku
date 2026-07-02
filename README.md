@@ -276,6 +276,27 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#29-Sertifikat-Kementerian-Komunikasi-dan-Digital">Lihat</a></td>
   </tr>
+  <tr>
+    <td>30</td>
+    <td>Politeknik Siber Cerdika Internasional (CSIRT Poltek SCI)</td>
+    <td>03 Juli 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#30-Sertifikat-Politeknik-Siber-Cerdika-Internasional-(CSIRT-Poltek-SCI)">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>DQLAB</td>
+    <td>08 Juli 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#31-Sertifikat-DQLAB">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>DQLAB</td>
+    <td>25 Juni 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#32-Sertifikat-DQLAB">Lihat</a></td>
+  </tr>
 </table>
 
 ---
@@ -580,6 +601,36 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 30. Politeknik Siber Cerdika Internasional (CSIRT Poltek SCI)
+**Tanggal:** 03 Juli 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_Politeknik-Siber-Cerdika-Internasional.jpg" alt="Politeknik Siber Cerdika Internasional (CSIRT Poltek SCI)" width="700">
+</p>
+
+---
+
+### 31. DQLAB
+**Tanggal:** 08 Juli 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_DQLAB.jpg" alt="DQLAB" width="700">
+</p>
+
+---
+
+### 32. DQLAB
+**Tanggal:** 25 Juni 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_DQLAB-2.jpg" alt="DQLAB" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -593,24 +644,24 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>30</td>
+    <td>33</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#30-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
+    <td><a href="#33-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
-    <td>31</td>
+    <td>34</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#31-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#34-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 30. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 33. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -620,7 +671,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 31. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 34. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
