@@ -10,11 +10,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bug%20Hunter-Active-brightgreen?style=for-the-badge" alt="Bug Hunter Badge">
-  <img src="https://img.shields.io/badge/Certificates-6-blue?style=for-the-badge" alt="Certificate Count">
+  <img src="https://img.shields.io/badge/Certificates-26-blue?style=for-the-badge" alt="Certificate Count">
   <img src="https://img.shields.io/badge/Focus-Vulnerability%20Reporting-orange?style=for-the-badge" alt="Focus Badge">
+  <img src="https://img.shields.io/badge/NASA-VDP%20Recognized-0B3D91?style=for-the-badge&logo=nasa" alt="NASA Badge">
 </p>
 
 <p align="center">
+  <a href="#-sertifikat-internasional">Sertifikat Internasional</a> •
   <a href="#-sertifikat-csirt--keamanan-siber">Sertifikat CSIRT</a> •
   <a href="#-penghargaan-lainnya">Penghargaan Lainnya</a> •
   <a href="#-tentang">Tentang</a> •
@@ -25,7 +27,39 @@
 
 ## 📖 Tentang
 
-Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari berbagai CSIRT (Computer Security Incident Response Team) dan institusi lainnya, sebagai bentuk pengakuan atas laporan kerentanan keamanan yang saya temukan secara *responsible disclosure*, serta penghargaan lain di luar konteks keamanan siber.
+Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari berbagai CSIRT (Computer Security Incident Response Team), lembaga internasional, dan institusi lainnya, sebagai bentuk pengakuan atas laporan kerentanan keamanan yang saya temukan secara *responsible disclosure*, serta penghargaan lain di luar konteks keamanan siber.
+
+---
+
+## 🌍 Sertifikat Internasional
+
+<table>
+  <tr>
+    <th>No</th>
+    <th>Institusi</th>
+    <th>Tanggal</th>
+    <th>Jenis</th>
+    <th>Sertifikat</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>NASA (National Aeronautics and Space Administration) - Vulnerability Disclosure Policy</td>
+    <td>24 Februari 2026</td>
+    <td>🚀 Letter of Appreciation</td>
+    <td><a href="#1-nasa-vulnerability-disclosure-policy">Lihat</a></td>
+  </tr>
+</table>
+
+---
+
+### 1. NASA Vulnerability Disclosure Policy
+**Tanggal:** 24 Februari 2026
+**Jenis:** Letter of Appreciation
+**Ditandatangani oleh:** Tamiko Fletcher, Acting Senior Agency Information Security Officer (SAISO), NASA Office of Chief Information Officer (OCIO)
+
+<p align="center">
+  <img src="./NASALetterOfAppreciation.jpg" alt="NASA Letter of Appreciation - Ahmad Reza Aulia Siregar" width="700">
+</p>
 
 ---
 
@@ -74,109 +108,127 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#5-csirt-dinas-komunikasi-dan-informatika-pemerintah-kota-bandung">Lihat</a></td>
   </tr>
-  <td>6</td>
+  <tr>
+    <td>6</td>
     <td>CSIRT Pemerintah Provinsi Bali</td>
     <td>20 Maret 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#6-csirt-pemerintah-provinsi-bali">Lihat</a></td>
   </tr>
-  <td>7</td>
+  <tr>
+    <td>7</td>
     <td>CSIRT Dinas Komunikasi Informatika dan Statistik Kota Magelang</td>
     <td>23 April 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#7-csirt-dinas-komunikasi-informati-dan-statistik-kota-magelang">Lihat</a></td>
   </tr>
-  <td>8</td>
+  <tr>
+    <td>8</td>
     <td>CSIRT Universitas Bina Bangsa Getsempena (UBBG)</td>
     <td>29 Januari 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#8-csirt-Universitas-Bina-Bangsa-Getsempena">Lihat</a></td>
   </tr>
-  <td>9</td>
+  <tr>
+    <td>9</td>
     <td>CSIRT Banjarbaru Kota</td>
     <td>03 Maret 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#9-csirt-banjarbaru-kota">Lihat</a></td>
   </tr>
-  <td>10</td>
+  <tr>
+    <td>10</td>
     <td>CSIRT Komisi Pemberantasan Korupsi (KPK)</td>
     <td>02 April 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#10-CSIRT-Komisi-Pemberantasan-Korupsi">Lihat</a></td>
   </tr>
-  <td>11</td>
+  <tr>
+    <td>11</td>
     <td>CSIRT Kementerian Kesehatan Republik Indonesia (Kemenkes)</td>
     <td>29 September 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#11-CSIRT-Kementerian-Kesehatan-Republik-Indonesia-(Kemenkes)">Lihat</a></td>
   </tr>
-  <td>12</td>
+  <tr>
+    <td>12</td>
     <td>Dinas Komunikasi dan Informatika Kabupaten Sragen</td>
     <td>25 Maret 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#12-Dinas-Komunikasi-dan-Informatika-Kabupaten-Sragen">Lihat</a></td>
   </tr>
-  <td>13</td>
+  <tr>
+    <td>13</td>
     <td>Dinas Perumahan Rakyat Kawasan Permukiman Pertanahan dan Tata Ruang Kabupaten Sragen</td>
     <td>04 Maret 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#13-dinas-perumahan-rakyat-kawasan-permukiman-pertanahan-dan-tata-ruang-kabupaten-sragen">Lihat</a></td>
   </tr>
-  <td>14</td>
+  <tr>
+    <td>14</td>
     <td>PT. Bank Rakyat Indonesia(Persero)</td>
     <td>29 Januari 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#14-sertifikat-apresiasi_PT-Bank-Rakyat-Indonesia(Persero)">Lihat</a></td>
   </tr>
-  <td>15</td>
+  <tr>
+    <td>15</td>
     <td>Universitas Jenderal Achmad Yani Yogyakarta</td>
     <td>19 Januari 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#15-sertifikat-apresiasi_universitas-jenderal-achmad-yani-yogyakarta">Lihat</a></td>
   </tr>
-  <td>16</td>
+  <tr>
+    <td>16</td>
     <td>Pemerintah Kota Gorontalo</td>
     <td>12 Mei 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#16-Sertifikat_Apresiasi_Pemerintah_Kota_Gorontalo">Lihat</a></td>
   </tr>
-  <td>17</td>
+  <tr>
+    <td>17</td>
     <td>Dinas Komunikasi Dan Informatika Pemerintah Kabupaten Bantul</td>
     <td>29 Agustus 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#17-Sertifikat-Dinas-Komunikasi-Dan-Informatika-Pemerintah-Kabupaten-Bantul">Lihat</a></td>
   </tr>
-  <td>18</td>
+  <tr>
+    <td>18</td>
     <td>Dinas Komunikasi dan Informatika Provinsi Jawa Barat</td>
     <td>02 Mei 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#18-Sertifikat-Dinas-Komunikasi-dan-Informatika-Provinsi-Jawa-Barat">Lihat</a></td>
   </tr>
-   <td>19</td>
+  <tr>
+    <td>19</td>
     <td>Dinas Komunikasi, Informatika, Statistik dan Persandian Pemerintah Kota Bekasi</td>
     <td>11 Juli 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#19-Sertifikat-Dinas-Komunikasi,-Informatika,-Statistik-dan-Persandian-Pemerintah-Kota-Bekasi">Lihat</a></td>
   </tr>
-  <td>20</td>
+  <tr>
+    <td>20</td>
     <td>Dinas Komunikasi dan Informatika Daerah Istimewa Yogyakarta</td>
     <td>09 September 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#20-Sertifikat-Dinas-Komunikasi-dan-Informatika-Daerah-Istimewa-Yogyakarta">Lihat</a></td>
   </tr>
-   <td>21</td>
+  <tr>
+    <td>21</td>
     <td>Dinas Komunikasi, Informatika dan Persandian Kota Yogyakarta</td>
     <td>29 Agustus 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#21-Sertifikat-Dinas-Komunikasi,-Informatika-dan-Persandian-Kota-Yogyakarta">Lihat</a></td>
   </tr>
-  <td>22</td>
+  <tr>
+    <td>22</td>
     <td>Pusat Data dan Teknologi Informasi Kementrian Agama Republik Indonesia (CSIRT Kemenag)</td>
     <td>14 Oktober 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#22-Sertifikat-Pusat-Data-dan-Teknologi-Informasi-Kementrian-Agama-Republik-Indonesia-(CSIRT Kemenag)">Lihat</a></td>
   </tr>
-  <td>23</td>
+  <tr>
+    <td>23</td>
     <td>Dinas Komunikasi dan Informatika Kabupaten Bandung</td>
     <td>01 Januari 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
