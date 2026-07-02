@@ -559,17 +559,6 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
-
-### 27. Dinas Komunikasi dan Informatika Kota Cimahi
-**Tanggal:** 16 September 2025
-**Jenis:** Certificate of Appreciation
-
-<p align="center">
-  <img src="./Sertifikat-Apresiasi_Dinas-Komunikasi-dan-Informatika-Kota-Cimahi.jpg" alt="Dinas Komunikasi dan Informatika Kota Cimahi" width="700">
-</p>
-
----
-
 ### 28. Dinas Komunikasi dan Informatika Kabupaten Sidoarjo
 **Tanggal:** 22 Januari 2026
 **Jenis:** Certificate of Appreciation
