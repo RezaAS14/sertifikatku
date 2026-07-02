@@ -248,6 +248,20 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#25-Sertifikat-Universitas-Islam-Negeri-Sumatera-Utara-Medan-(UINSU)">Lihat</a></td>
   </tr>
+  <tr>
+    <td>26</td>
+    <td>Universitas Nahdlatul Ulama Al Ghazali Cilacap</td>
+    <td>20 Januari 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#26-Sertifikat-Universitas-Nahdlatul-Ulama-Al-Ghazali-Cilacap">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>Dinas Komunikasi dan Informatika Kota Cimahi</td>
+    <td>13 Agustus 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#27-Sertifikat-Dinas-Komunikasi-dan-Informatika-Kota-Cimahi">Lihat</a></td>
+  </tr>
 </table>
 
 ---
@@ -511,6 +525,26 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 26. Universitas Nahdlatul Ulama Al Ghazali Cilacap
+**Tanggal:** 20 Januari 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./Sertifikat-Apresiasi-Universitas-Nahdlatul-Ulama-Al-Ghazali-Cilacap.jpg" alt="Universitas Nahdlatul Ulama Al Ghazali Cilacap" width="700">
+</p>
+
+---
+
+### 27. Dinas Komunikasi dan Informatika Kota Cimahi
+**Tanggal:** 16 September 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./Sertifikat-Apresiasi_Dinas-Komunikasi-dan-Informatika-Kota-Cimahi.jpg" alt="Dinas Komunikasi dan Informatika Kota Cimahi" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -524,24 +558,24 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>26</td>
+    <td>28</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#26-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
+    <td><a href="#28-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
-    <td>27</td>
+    <td>29</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#27-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#29-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 26. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 28. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -551,7 +585,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 27. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 29. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
