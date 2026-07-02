@@ -150,13 +150,25 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>Dinas Komunikasi dan Informatika Provinsi Jawa Barat</td>
     <td>02 Mei 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
-    <td><a href="#17-Sertifikat-Dinas-Komunikasi-dan-Informatika-Provinsi-Jawa-Barat">Lihat</a></td>
+    <td><a href="#18-Sertifikat-Dinas-Komunikasi-dan-Informatika-Provinsi-Jawa-Barat">Lihat</a></td>
   </tr>
    <td>19</td>
     <td>Dinas Komunikasi, Informatika, Statistik dan Persandian Pemerintah Kota Bekasi</td>
     <td>11 Juli 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
-    <td><a href="#17-Sertifikat-Dinas-Komunikasi,-Informatika,-Statistik-dan-Persandian-Pemerintah-Kota-Bekasi">Lihat</a></td>
+    <td><a href="#19-Sertifikat-Dinas-Komunikasi,-Informatika,-Statistik-dan-Persandian-Pemerintah-Kota-Bekasi">Lihat</a></td>
+  </tr>
+  <td>20</td>
+    <td>Dinas Komunikasi dan Informatika Daerah Istimewa Yogyakarta</td>
+    <td>09 September 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#20-Sertifikat-Dinas-Komunikasi-dan-Informatika-Daerah-Istimewa-Yogyakarta">Lihat</a></td>
+  </tr>
+   <td>21</td>
+    <td>Dinas Komunikasi, Informatika dan Persandian Kota Yogyakarta</td>
+    <td>29 Agustus 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#21-Sertifikat-Dinas-Komunikasi,-Informatika-dan-Persandian-Kota-Yogyakarta">Lihat</a></td>
   </tr>
 </table>
 
@@ -361,6 +373,26 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 20. Dinas Komunikasi dan Informatika Daerah Istimewa Yogyakarta
+**Tanggal:** 09 September 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi-Dinas-Komunikasi-dan-Informatika-Daerah-Istimewa-Yogyakarta.jpg" alt="Dinas Komunikasi dan Informatika Daerah Istimewa Yogyakarta" width="700">
+</p>
+
+---
+
+### 21. Dinas Komunikasi, Informatika dan Persandian Kota Yogyakarta
+**Tanggal:** 29 Agustus 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./Sertifikat-Apresiasi_Dinas-Komunikasi,-Informatika,-dan-Persandian-Kota-Yogyakarta.jpg" alt="Dinas Komunikasi, Informatika dan Persandian Kota Yogyakarta" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -374,24 +406,24 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>20</td>
+    <td>22</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#20-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
+    <td><a href="#22-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
-    <td>21</td>
+    <td>23</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#21-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#23-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 20. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 22. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -401,7 +433,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 21. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 23. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
