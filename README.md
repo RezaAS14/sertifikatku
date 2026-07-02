@@ -297,6 +297,27 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#32-Sertifikat-DQLAB">Lihat</a></td>
   </tr>
+  <tr>
+    <td>33</td>
+    <td>Dinas Komunikasi, Informatika, dan Statistik Kota Banda Aceh</td>
+    <td>03 Maret 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#33-SertifikatApresiasi_Dinas-Komunikasi,Informatika,dan-Statistik-Kota-Banda-Aceh">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>Universitas Mataram</td>
+    <td>11 Juli 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#34-SertifikatApresiasi_Universitas-Mataram">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>Dinas Komunikasi dan Informatika Kabupaten Gunungkidul</td>
+    <td>11 Maret 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#35-SertifikatApresiasi_Dinas-Komunikasi-dan-Informatika-Kabupaten-Gunungkidul">Lihat</a></td>
+  </tr>
 </table>
 
 ---
@@ -631,6 +652,36 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 33. Dinas Komunikasi, Informatika, dan Statistik Kota Banda Aceh
+**Tanggal:** 03 Maret 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_Dinas-Komunikasi,Informatika,dan-Statistik-Kota-Banda-Aceh.jpg" alt="Dinas Komunikasi, Informatika, dan Statistik Kota Banda Aceh" width="700">
+</p>
+
+---
+
+### 34. Universitas Mataram
+**Tanggal:** 11 Juli 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_Universitas-Mataram.jpg" alt="Sertifikat Apresiasi Universitas Mataram" width="700">
+</p>
+
+---
+
+### 35. Dinas Komunikasi dan Informatika Kabupaten Gunungkidul
+**Tanggal:** 11 Maret 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_Dinas-Komunikasi-dan-Informatika-Kabupaten-Gunungkidul.jpg" alt="Dinas Komunikasi dan Informatika Kabupaten Gunungkidul" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -644,24 +695,24 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>33</td>
+    <td>36</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#33-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
+    <td><a href="#36-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
-    <td>34</td>
+    <td>37</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#34-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#37-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 33. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 36. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -671,7 +722,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 34. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 37. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
