@@ -262,6 +262,20 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#27-Sertifikat-Dinas-Komunikasi-dan-Informatika-Kota-Cimahi">Lihat</a></td>
   </tr>
+  <tr>
+    <td>28</td>
+    <td>Dinas Komunikasi dan Informatika Kabupaten Sidoarjo</td>
+    <td>22 Januari 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#28-Sertifikat-Dinas-Komunikasi-dan-Informatika-Kabupaten-Sidoarjo">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>Kementerian Komunikasi dan Digital (Komdigi)</td>
+    <td>24 April 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#29-Sertifikat-Kementerian-Komunikasi-dan-Digital">Lihat</a></td>
+  </tr>
 </table>
 
 ---
@@ -545,6 +559,38 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+
+### 27. Dinas Komunikasi dan Informatika Kota Cimahi
+**Tanggal:** 16 September 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./Sertifikat-Apresiasi_Dinas-Komunikasi-dan-Informatika-Kota-Cimahi.jpg" alt="Dinas Komunikasi dan Informatika Kota Cimahi" width="700">
+</p>
+
+---
+
+### 28. Dinas Komunikasi dan Informatika Kabupaten Sidoarjo
+**Tanggal:** 22 Januari 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./PiagamApresiasi_Dinas-Komunikasi-dan-Informatika-Kabupaten-Sidoarjo.jpg" alt="Dinas Komunikasi dan Informatika Kabupaten Sidoarjo" width="700">
+</p>
+
+---
+
+
+### 29. Kementerian Komunikasi dan Digital (Komdigi)
+**Tanggal:** 24 April 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi-CSIRT-Kementerian-Komunikasi-dan-Digital.jpg" alt="Kementerian Komunikasi dan Digital (Komdigi)" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -558,24 +604,24 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>28</td>
+    <td>30</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#28-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
+    <td><a href="#30-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
-    <td>29</td>
+    <td>31</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#29-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#31-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 28. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 30. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -585,7 +631,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 29. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 31. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
