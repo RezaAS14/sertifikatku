@@ -183,16 +183,33 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
   </tr>
   <tr>
     <td>8</td>
+    <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
+    <td>22 September 2025</td>
+    <td>🎖️ Sertifikat Penghargaan</td>
+    <td><a href="#8-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>9</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#8-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#9-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 8. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 8. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+**Tanggal:** 22 September 2025
+**Jenis:** Sertifikat Penghargaan
+
+<p align="center">
+  <img src="./sertifikat-penghargaan-csirt-banyuwangi.jpg" alt="Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi" width="700">
+</p>
+
+---
+
+### 9. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
