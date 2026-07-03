@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bug%20Hunter-Active-brightgreen?style=for-the-badge" alt="Bug Hunter Badge">
-  <img src="https://img.shields.io/badge/Certificates-28-blue?style=for-the-badge" alt="Certificate Count">
+  <img src="https://img.shields.io/badge/Certificates-54-blue?style=for-the-badge" alt="Certificate Count">
   <img src="https://img.shields.io/badge/Focus-Vulnerability%20Reporting-orange?style=for-the-badge" alt="Focus Badge">
   <img src="https://img.shields.io/badge/NASA-VDP%20Recognized-0B3D91?style=for-the-badge&logo=nasa" alt="NASA Badge">
 </p>
