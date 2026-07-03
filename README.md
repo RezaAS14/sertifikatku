@@ -1,4 +1,4 @@
-<h1 align="center">🏆 Bug Hunting Certificates</h1>
+<img width="1754" height="1240" alt="SertifikatApresiasi_PT-Tranformasi-Jakarta(Transjakarta)" src="https://github.com/user-attachments/assets/70c319f8-7982-4142-9121-2c028af5b722" /><h1 align="center">🏆 Bug Hunting Certificates</h1>
 
 <p align="center">
   Kumpulan sertifikat apresiasi atas laporan kerentanan (bug/vulnerability) yang saya temukan dan laporkan kepada berbagai institusi maupun organisasi.
@@ -378,6 +378,18 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>20 Febuari 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#44-SertifikatApresiasi_anteraja">Lihat</a></td>
+  </tr>
+  <td>45</td>
+    <td>PT Tranformasi Jakarta (Transjakarta)</td>
+    <td>03 Febuari 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#45-SertifikatApresiasi_PT-Tranformasi-Jakarta(Transjakarta)">Lihat</a></td>
+  </tr>
+  <td>46</td>
+    <td>Kabupaten Klaten Tim Tanggap Insiden Siber (KlatenKab-TTIS)</td>
+    <td>03 Febuari 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#46-SertifikatApresiasi_KabupatenKlatenTimTanggapInsidenSiber(KlatenKab-TTIS)">Lihat</a></td>
   </tr>
 </table>
 
@@ -833,6 +845,26 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 45. PT Tranformasi Jakarta (Transjakarta)
+**Tanggal:** 03 Febuari 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_PT-Tranformasi-Jakarta(Transjakarta).jpg" alt="PT Tranformasi Jakarta (Transjakarta)" width="700">
+</p>
+
+---
+
+### 46. Kabupaten Klaten Tim Tanggap Insiden Siber (KlatenKab-TTIS)
+**Tanggal:** 03 Febuari 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_KabupatenKlatenTimTanggapInsidenSiber(KlatenKab-TTIS).jpg" alt="Kabupaten Klaten Tim Tanggap Insiden Siber (KlatenKab-TTIS)" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -846,24 +878,31 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>45</td>
+    <td>47</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#45-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
+    <td><a href="#47-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
-    <td>46</td>
+    <td>48</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#46-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#48-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td>Universitas Brawijaya</td>
+    <td>18 Febuari 2026</td>
+    <td>🎖️ Sertifikat Penghargaan</td>
+    <td><a href="#49-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 45. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 47. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -873,12 +912,22 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 46. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 48. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
 <p align="center">
   <img src="./sertifikat-penghargaan_SMK-Muhammadiyah-Majenang.jpg" alt="Sertifikat Penghargaan SMK Muhammadiyah Majenang" width="700">
+</p>
+
+---
+
+### 49. Sertifikat Penghargaan Universitas Brawijaya
+**Tanggal:** 18 Febuari 2026
+**Jenis:** Sertifikat Penghargaan
+
+<p align="center">
+  <img src="./SertifikatPenghargaan_Universitas-Brawijaya.jpg" alt="Sertifikat Penghargaan Universitas Brawijaya" width="700">
 </p>
 
 ---
