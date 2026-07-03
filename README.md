@@ -946,8 +946,6 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 ### 51. Dinas Komunikasi, Informatika dan Statistik Provinsi Riau
 **Tanggal:** 03 Maret 2026
 **Jenis:** Certificate of Appreciation
-**Nomor Sertifikat:** 059/SERT/DISKOMINFOTIK-BIDSAN/03/2026
-**Ditandatangani oleh:** Drs. Supriyadi, M.Si — Kepala Dinas Komunikasi, Informatika dan Statistik Provinsi Riau
 
 <p align="center">
   <img src="./UcapanTerimaKasih_Dinas-Komunikasi,Informatika-dan-Statistik-Provinsi-Riau.jpg" alt="Ucapan Terima Kasih Dinas Komunikasi, Informatika dan Statistik Provinsi Riau" width="700">
