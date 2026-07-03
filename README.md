@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bug%20Hunter-Active-brightgreen?style=for-the-badge" alt="Bug Hunter Badge">
-  <img src="https://img.shields.io/badge/Certificates-26-blue?style=for-the-badge" alt="Certificate Count">
+  <img src="https://img.shields.io/badge/Certificates-27-blue?style=for-the-badge" alt="Certificate Count">
   <img src="https://img.shields.io/badge/Focus-Vulnerability%20Reporting-orange?style=for-the-badge" alt="Focus Badge">
   <img src="https://img.shields.io/badge/NASA-VDP%20Recognized-0B3D91?style=for-the-badge&logo=nasa" alt="NASA Badge">
 </p>
@@ -367,53 +367,68 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#42-SertifikatApresiasi_KGMedia">Lihat</a></td>
   </tr>
-  <td>43</td>
+  <tr>
+    <td>43</td>
     <td>Kementerian Pekerjaan Umum (PU)</td>
     <td>22 Juni 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#43-SertifikatApresiasi_KemenPU">Lihat</a></td>
   </tr>
-  <td>44</td>
+  <tr>
+    <td>44</td>
     <td>Anteraja</td>
     <td>20 Febuari 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#44-SertifikatApresiasi_anteraja">Lihat</a></td>
   </tr>
-  <td>45</td>
+  <tr>
+    <td>45</td>
     <td>PT Tranformasi Jakarta (Transjakarta)</td>
     <td>03 Febuari 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#45-SertifikatApresiasi_PT-Tranformasi-Jakarta(Transjakarta)">Lihat</a></td>
   </tr>
-  <td>46</td>
+  <tr>
+    <td>46</td>
     <td>Kabupaten Klaten Tim Tanggap Insiden Siber (KlatenKab-TTIS)</td>
     <td>03 Febuari 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#46-SertifikatApresiasi_KabupatenKlatenTimTanggapInsidenSiber(KlatenKab-TTIS)">Lihat</a></td>
   </tr>
-  <td>47</td>
+  <tr>
+    <td>47</td>
     <td>Dinas Komunikasi dan Informatika Kabupaten Cilacap (CILACAPKAB-CSIRT)</td>
     <td>24 Desember 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#47-SertifikatApresiasi_CilacapKab-CSIRT">Lihat</a></td>
   </tr>
-  <td>48</td>
+  <tr>
+    <td>48</td>
     <td>Dinas Komunikasi Dan Informatika Kabupaten Sukoharjo</td>
     <td>15 Desember 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#48-SertifikatApresiasi_Dinas-Komunikasi-Dan-Informatika-Kabupaten-Sukoharjo">Lihat</a></td>
   </tr>
-  <td>49</td>
+  <tr>
+    <td>49</td>
     <td>Dinas Komunikasi Dan Informatika Kabupaten Wonosobo</td>
     <td>21 Oktober 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#49-SertifikatApresiasi_Dinas-Komunikasi-Dan-Informatika-Kabupaten-Wonosobo">Lihat</a></td>
   </tr>
-  <td>50</td>
+  <tr>
+    <td>50</td>
     <td>Dinas Komunikasi Dan Informatika Kabupaten Purbalingga</td>
     <td>18 September 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#50-SertifikatApresiasi_PurbalinggaKab-CSIRT.jpg">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>51</td>
+    <td>Dinas Komunikasi, Informatika dan Statistik Provinsi Riau</td>
+    <td>03 Maret 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#51-sertifikatapresiasi_dinas-komunikasi-informatika-dan-statistik-provinsi-riau">Lihat</a></td>
   </tr>
 </table>
 
@@ -708,7 +723,6 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
-
 ### 29. Kementerian Komunikasi dan Digital (Komdigi)
 **Tanggal:** 24 April 2025
 **Jenis:** Certificate of Appreciation
@@ -929,6 +943,18 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 51. Dinas Komunikasi, Informatika dan Statistik Provinsi Riau
+**Tanggal:** 03 Maret 2026
+**Jenis:** Certificate of Appreciation
+**Nomor Sertifikat:** 059/SERT/DISKOMINFOTIK-BIDSAN/03/2026
+**Ditandatangani oleh:** Drs. Supriyadi, M.Si — Kepala Dinas Komunikasi, Informatika dan Statistik Provinsi Riau
+
+<p align="center">
+  <img src="./UcapanTerimaKasih_Dinas-Komunikasi,Informatika-dan-Statistik-Provinsi-Riau.jpg" alt="Ucapan Terima Kasih Dinas Komunikasi, Informatika dan Statistik Provinsi Riau" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -942,31 +968,31 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>51</td>
+    <td>52</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#51-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
-  </tr>
-  <tr>
-    <td>52</td>
-    <td>SMK Muhammadiyah Majenang</td>
-    <td>03 September 2025</td>
-    <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#52-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#52-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
     <td>53</td>
+    <td>SMK Muhammadiyah Majenang</td>
+    <td>03 September 2025</td>
+    <td>🎖️ Sertifikat Penghargaan</td>
+    <td><a href="#53-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>54</td>
     <td>Universitas Brawijaya</td>
     <td>18 Febuari 2026</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#53-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
+    <td><a href="#54-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 51. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 52. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -976,7 +1002,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 52. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 53. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -986,7 +1012,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 53. Sertifikat Penghargaan Universitas Brawijaya
+### 54. Sertifikat Penghargaan Universitas Brawijaya
 **Tanggal:** 18 Febuari 2026
 **Jenis:** Sertifikat Penghargaan
 
