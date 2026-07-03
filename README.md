@@ -318,6 +318,41 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#35-SertifikatApresiasi_Dinas-Komunikasi-dan-Informatika-Kabupaten-Gunungkidul">Lihat</a></td>
   </tr>
+  <tr>
+    <td>36</td>
+    <td>Kementrian Kehutanan</td>
+    <td>26 September 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#36-SertifikatApresiasi_Kementrian-Kehutanan">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>Badan Metrologi, Klimatologi dan Geofisika (BMKG)</td>
+    <td>12 Juni 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#37-SertifikatApresiasi_Badan-Metrologi,Klimatologi-dan-Geofisika">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>Dinas Komunikasi dan Informatika Kota Pekalongan</td>
+    <td>07 Juli 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#38-SertifikatApresiasi_Dinas-Komunikasi-dan-Informatika-Kota-Pekalongan">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td>Badan Siber Sandi dan Aplikasi Dinas Komunikasi, Informatika dan Statistik Provinsi DKI Jakarta</td>
+    <td>30 Januari 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#39-SertifikatApresiasi_Badan Siber Sandi dan Aplikasi Dinas-Komunikasi,Informatika-dan-Statistik-Provinsi-DKI-Jakarta">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>Dinas Komunikasi, Informatika dan Statistik Provinsi Lampung</td>
+    <td>11 Maret 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#40-SertifikatApresiasi_LampungProv-CSIRT_Dinas-Komunikasi-Informatika-dan-Statistik-Provinsi-Lampung">Lihat</a></td>
+  </tr>
 </table>
 
 ---
@@ -682,6 +717,56 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 36. Kementrian Kehutanan
+**Tanggal:** 26 September 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_Kementrian-Kehutanan.jpg" alt="Kementrian Kehutanan" width="700">
+</p>
+
+---
+
+### 37. Badan Metrologi, Klimatologi dan Geofisika (BMKG)
+**Tanggal:** 12 Juni 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_Badan-Metrologi,Klimatologi-dan-Geofisika.jpg" alt="Badan Metrologi, Klimatologi dan Geofisika (BMKG)" width="700">
+</p>
+
+---
+
+### 38. Dinas Komunikasi dan Informatika Kota Pekalongan
+**Tanggal:** 07 Juli 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_Dinas-Komunikasi-dan-Informatika-Kota-Pekalongan.jpg" alt="Dinas Komunikasi dan Informatika Kota Pekalongan" width="700">
+</p>
+
+---
+
+### 39. Badan Siber Sandi dan Aplikasi Dinas Komunikasi, Informatika dan Statistik Provinsi DKI Jakarta
+**Tanggal:** 30 Januari 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_Badan Siber Sandi dan Aplikasi Dinas-Komunikasi,Informatika-dan-Statistik-Provinsi-DKI-Jakarta.jpg" alt="Badan Siber Sandi dan Aplikasi Dinas Komunikasi, Informatika dan Statistik Provinsi DKI Jakarta" width="700">
+</p>
+
+---
+
+### 40. Dinas Komunikasi, Informatika dan Statistik Provinsi Lampung
+**Tanggal:** 11 Maret 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_LampungProv-CSIRT_Dinas-Komunikasi-Informatika-dan-Statistik-Provinsi-Lampung.jpg" alt="Dinas Komunikasi, Informatika dan Statistik Provinsi Lampung" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -695,24 +780,24 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>36</td>
+    <td>41</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#36-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
+    <td><a href="#41-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
-    <td>37</td>
+    <td>42</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#37-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#42-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 36. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 41. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -722,7 +807,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 37. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 42. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
