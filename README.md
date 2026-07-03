@@ -1,4 +1,4 @@
-<img width="1754" height="1240" alt="SertifikatApresiasi_PT-Tranformasi-Jakarta(Transjakarta)" src="https://github.com/user-attachments/assets/70c319f8-7982-4142-9121-2c028af5b722" /><h1 align="center">🏆 Bug Hunting Certificates</h1>
+<h1 align="center">🏆 Bug Hunting Certificates</h1>
 
 <p align="center">
   Kumpulan sertifikat apresiasi atas laporan kerentanan (bug/vulnerability) yang saya temukan dan laporkan kepada berbagai institusi maupun organisasi.
