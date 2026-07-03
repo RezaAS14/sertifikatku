@@ -62,7 +62,6 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
 ### 1. NASA Vulnerability Disclosure Policy
 **Tanggal:** 24 Februari 2026
 **Jenis:** Letter of Appreciation
-**Ditandatangani oleh:** Tamiko Fletcher, Acting Senior Agency Information Security Officer (SAISO), NASA Office of Chief Information Officer (OCIO)
 
 <p align="center">
   <img src="./NASALetterOfAppreciation.jpg" alt="NASA Letter of Appreciation - Ahmad Reza Aulia Siregar" width="700">
@@ -73,7 +72,6 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
 ### 2. WHO Vulnerability Hall of Fame
 **Tanggal:** 18 Maret 2026
 **Jenis:** Hall of Fame Listing
-**Temuan:** Reported Broken Link Hijack on extranet.who.int
 **Sumber:** [who.int/about/cybersecurity/vulnerability-hall-of-fame/ethical-hacker-list](https://www.who.int/about/cybersecurity/vulnerability-hall-of-fame/ethical-hacker-list)
 
 <p align="center">
