@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bug%20Hunter-Active-brightgreen?style=for-the-badge" alt="Bug Hunter Badge">
-  <img src="https://img.shields.io/badge/Certificates-27-blue?style=for-the-badge" alt="Certificate Count">
+  <img src="https://img.shields.io/badge/Certificates-28-blue?style=for-the-badge" alt="Certificate Count">
   <img src="https://img.shields.io/badge/Focus-Vulnerability%20Reporting-orange?style=for-the-badge" alt="Focus Badge">
   <img src="https://img.shields.io/badge/NASA-VDP%20Recognized-0B3D91?style=for-the-badge&logo=nasa" alt="NASA Badge">
 </p>
@@ -48,6 +48,13 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>🚀 Letter of Appreciation</td>
     <td><a href="#1-nasa-vulnerability-disclosure-policy">Lihat</a></td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>WHO (World Health Organization) - Vulnerability Hall of Fame</td>
+    <td>18 Maret 2026</td>
+    <td>🌐 Hall of Fame Listing</td>
+    <td><a href="#2-who-vulnerability-hall-of-fame">Lihat</a></td>
+  </tr>
 </table>
 
 ---
@@ -59,6 +66,18 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
 
 <p align="center">
   <img src="./NASALetterOfAppreciation.jpg" alt="NASA Letter of Appreciation - Ahmad Reza Aulia Siregar" width="700">
+</p>
+
+---
+
+### 2. WHO Vulnerability Hall of Fame
+**Tanggal:** 18 Maret 2026
+**Jenis:** Hall of Fame Listing
+**Temuan:** Reported Broken Link Hijack on extranet.who.int
+**Sumber:** [who.int/about/cybersecurity/vulnerability-hall-of-fame/ethical-hacker-list](https://www.who.int/about/cybersecurity/vulnerability-hall-of-fame/ethical-hacker-list)
+
+<p align="center">
+  <img src="./who.int.png" alt="WHO Vulnerability Hall of Fame - Ahmad Reza Aulia Siregar" width="700">
 </p>
 
 ---
@@ -946,6 +965,8 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 ### 51. Dinas Komunikasi, Informatika dan Statistik Provinsi Riau
 **Tanggal:** 03 Maret 2026
 **Jenis:** Certificate of Appreciation
+**Nomor Sertifikat:** 059/SERT/DISKOMINFOTIK-BIDSAN/03/2026
+**Ditandatangani oleh:** Drs. Supriyadi, M.Si — Kepala Dinas Komunikasi, Informatika dan Statistik Provinsi Riau
 
 <p align="center">
   <img src="./UcapanTerimaKasih_Dinas-Komunikasi,Informatika-dan-Statistik-Provinsi-Riau.jpg" alt="Ucapan Terima Kasih Dinas Komunikasi, Informatika dan Statistik Provinsi Riau" width="700">
