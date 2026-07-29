@@ -1,7 +1,7 @@
 <h1 align="center">🏆 Bug Hunting Certificates</h1>
 
 <p align="center">
-  Kumpulan sertifikat apresiasi atas laporan kerentanan (bug/vulnerability) yang saya temukan dan laporkan kepada berbagai institusi maupun organisasi.
+  Kumpulan sertifikat apresiasi dan pencatatan Hall of Fame atas laporan kerentanan (bug/vulnerability) yang saya temukan dan laporkan kepada berbagai institusi maupun organisasi.
 </p>
 
 <p align="center">
@@ -10,14 +10,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bug%20Hunter-Active-brightgreen?style=for-the-badge" alt="Bug Hunter Badge">
-  <img src="https://img.shields.io/badge/Certificates-54-blue?style=for-the-badge" alt="Certificate Count">
+  <img src="https://img.shields.io/badge/Certificates-62-blue?style=for-the-badge" alt="Certificate Count">
+  <img src="https://img.shields.io/badge/Hall%20of%20Fame-3-purple?style=for-the-badge" alt="Hall of Fame Count">
   <img src="https://img.shields.io/badge/Focus-Vulnerability%20Reporting-orange?style=for-the-badge" alt="Focus Badge">
   <img src="https://img.shields.io/badge/NASA-VDP%20Recognized-0B3D91?style=for-the-badge&logo=nasa" alt="NASA Badge">
 </p>
 
 <p align="center">
   <a href="#-sertifikat-internasional">Sertifikat Internasional</a> •
-  <a href="#-sertifikat-csirt--keamanan-siber">Sertifikat CSIRT</a> •
+  <a href="#-hall-of-fame-hof">Hall of Fame</a> •
+  <a href="#️-sertifikat-csirt--keamanan-siber">Sertifikat CSIRT</a> •
   <a href="#-penghargaan-lainnya">Penghargaan Lainnya</a> •
   <a href="#-tentang">Tentang</a> •
   <a href="#-kontak">Kontak</a>
@@ -27,7 +29,7 @@
 
 ## 📖 Tentang
 
-Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari berbagai CSIRT (Computer Security Incident Response Team), lembaga internasional, dan institusi lainnya, sebagai bentuk pengakuan atas laporan kerentanan keamanan yang saya temukan secara *responsible disclosure*, serta penghargaan lain di luar konteks keamanan siber.
+Repository ini berisi dokumentasi sertifikat apresiasi dan pencatatan **Hall of Fame** yang saya terima dari berbagai CSIRT (Computer Security Incident Response Team), lembaga internasional, dan institusi lainnya, sebagai bentuk pengakuan atas laporan kerentanan keamanan yang saya temukan secara *responsible disclosure*, serta penghargaan lain di luar konteks keamanan siber.
 
 ---
 
@@ -76,6 +78,73 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
 
 <p align="center">
   <img src="./who.int.png" alt="WHO Vulnerability Hall of Fame - Ahmad Reza Aulia Siregar" width="700">
+</p>
+
+---
+
+## 🏆 Hall of Fame (HOF)
+
+Selain sertifikat resmi, nama saya juga tercatat pada halaman **Hall of Fame / White Hat** milik beberapa CSIRT sebagai bentuk pengakuan publik atas laporan kerentanan yang telah dikirimkan.
+
+<table>
+  <tr>
+    <th>No</th>
+    <th>Institusi</th>
+    <th>Ranking / Kontribusi</th>
+    <th>Sumber</th>
+    <th>Tangkapan Layar</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Tim Tanggap Insiden Siber Kabupaten Kutai Kartanegara (TTIS Kukarkab)</td>
+    <td>#15 — Multiple Vulnerability on subdomain kukarkab.go.id (Dilaporkan: 31 Juli 2025)</td>
+    <td><a href="https://ttis.kukarkab.go.id/whitehat-etam">ttis.kukarkab.go.id/whitehat-etam</a></td>
+    <td><a href="#1-hof-ttis-kukarkab">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>CSIRT PT Transportasi Jakarta (Transjakarta)</td>
+    <td>#99 — White Hat Contributor</td>
+    <td><a href="https://csirt.transjakarta.co.id/white-hacker/">csirt.transjakarta.co.id/white-hacker</a></td>
+    <td><a href="#2-hof-csirt-transjakarta">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>CSIRT Politeknik Siber Cerdika Internasional (Poltek SCI)</td>
+    <td>#5 — Contributor</td>
+    <td><a href="https://csirt.polteksci.ac.id/leaderboard">csirt.polteksci.ac.id/leaderboard</a></td>
+    <td><a href="#3-hof-csirt-poltek-sci">Lihat</a></td>
+  </tr>
+</table>
+
+---
+
+### 1. HOF - TTIS Kukarkab
+**Institusi:** Tim Tanggap Insiden Siber Kabupaten Kutai Kartanegara
+**Ranking:** #15 — Multiple Vulnerability on subdomain kukarkab.go.id
+
+<p align="center">
+  <img src="./hof_ttis.kukarkab.png" alt="Hall of Fame - TTIS Kabupaten Kutai Kartanegara" width="700">
+</p>
+
+---
+
+### 2. HOF - CSIRT Transjakarta
+**Institusi:** CSIRT PT Transportasi Jakarta (Transjakarta)
+**Ranking:** #99 — White Hat Contributor
+
+<p align="center">
+  <img src="./hof_csirt.transjakarta.png" alt="Hall of Fame - CSIRT Transjakarta" width="700">
+</p>
+
+---
+
+### 3. HOF - CSIRT Poltek SCI
+**Institusi:** CSIRT Politeknik Siber Cerdika Internasional
+**Ranking:** #5 — Contributor
+
+<p align="center">
+  <img src="./hof_csirt.polteksci.png" alt="Hall of Fame - CSIRT Politeknik Siber Cerdika Internasional" width="700">
 </p>
 
 ---
@@ -467,6 +536,20 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>03 Februari 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#54-SertifikatApresiasi_Dinas-Komunikasi-Informatika-Statistik-dan-Persandian-Kota-Pekanbaru">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>55</td>
+    <td>Tim Tanggap Insiden Siber (TTIS) Kutai Kartanegara / Diskominfo Kabupaten Kutai Kartanegara</td>
+    <td>23 Juli 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#55-CertificateApresiasi_TTIS-Kutai-Kartanegara">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>56</td>
+    <td>Diskominfo Kota Pontianak (CSIRT)</td>
+    <td>06 Oktober 2025</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#56-Sertifikat-Apresiasi_CSIRT-Kota-Pontianak">Lihat</a></td>
   </tr>
 </table>
 
@@ -1021,6 +1104,28 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 55. CertificateApresiasi_TTIS-Kutai-Kartanegara
+**Institusi:** Tim Tanggap Insiden Siber (TTIS) Kutai Kartanegara — Bidang Persandian Diskominfo Kabupaten Kutai Kartanegara
+**Tanggal:** 23 Juli 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./CertificateApresiasi_Tim-Tanggap-Insiden-SIber-(TTIS)-Kutai Kartanegara.png" alt="Sertifikat Apresiasi Tim Tanggap Insiden Siber (TTIS) Kutai Kartanegara" width="700">
+</p>
+
+---
+
+### 56. Sertifikat-Apresiasi_CSIRT-Kota-Pontianak
+**Institusi:** Dinas Komunikasi dan Informatika (Diskominfo) Kota Pontianak
+**Tanggal:** 06 Oktober 2025
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./Sertifikat-Apresiasi_CSIRT-Kota-Pontianak.jpg" alt="Sertifikat Apresiasi CSIRT Kota Pontianak" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -1034,38 +1139,38 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>55</td>
+    <td>57</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#55-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
-  </tr>
-  <tr>
-    <td>56</td>
-    <td>SMK Muhammadiyah Majenang</td>
-    <td>03 September 2025</td>
-    <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#56-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
-  </tr>
-  <tr>
-    <td>57</td>
-    <td>Universitas Brawijaya</td>
-    <td>12 Februari 2026</td>
-    <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#57-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
+    <td><a href="#57-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
     <td>58</td>
+    <td>SMK Muhammadiyah Majenang</td>
+    <td>03 September 2025</td>
+    <td>🎖️ Sertifikat Penghargaan</td>
+    <td><a href="#58-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>59</td>
+    <td>Universitas Brawijaya</td>
+    <td>12 Februari 2026</td>
+    <td>🎖️ Sertifikat Penghargaan</td>
+    <td><a href="#59-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>60</td>
     <td>Universitas Brawijaya</td>
     <td>18 Februari 2026</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#58-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
+    <td><a href="#60-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 55. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 57. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -1075,7 +1180,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 56. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 58. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -1085,7 +1190,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 57. Sertifikat Penghargaan Universitas Brawijaya
+### 59. Sertifikat Penghargaan Universitas Brawijaya
 **Tanggal:** 12 Februari 2026
 **Jenis:** Sertifikat Penghargaan
 
@@ -1095,8 +1200,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-
-### 58. Sertifikat Penghargaan Universitas Brawijaya
+### 60. Sertifikat Penghargaan Universitas Brawijaya
 **Tanggal:** 18 Februari 2026
 **Jenis:** Sertifikat Penghargaan
 
