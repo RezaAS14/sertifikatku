@@ -394,21 +394,21 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
   <tr>
     <td>44</td>
     <td>Anteraja</td>
-    <td>20 Febuari 2026</td>
+    <td>20 Februari 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#44-SertifikatApresiasi_anteraja">Lihat</a></td>
   </tr>
   <tr>
     <td>45</td>
     <td>PT Tranformasi Jakarta (Transjakarta)</td>
-    <td>03 Febuari 2026</td>
+    <td>03 Februari 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#45-SertifikatApresiasi_PT-Tranformasi-Jakarta(Transjakarta)">Lihat</a></td>
   </tr>
   <tr>
     <td>46</td>
     <td>Kabupaten Klaten Tim Tanggap Insiden Siber (KlatenKab-TTIS)</td>
-    <td>03 Febuari 2026</td>
+    <td>03 Februari 2026</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#46-SertifikatApresiasi_KabupatenKlatenTimTanggapInsidenSiber(KlatenKab-TTIS)">Lihat</a></td>
   </tr>
@@ -453,6 +453,20 @@ Repository ini berisi dokumentasi sertifikat apresiasi yang saya terima dari ber
     <td>30 Desember 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#52-SertifikatApresiasi_Dinas-Komunikasi-Dan-Informatika-Kota-Bogor">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>53</td>
+    <td>Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Pekanbaru</td>
+    <td>03 Februari 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#53-SertifikatApresiasi_Dinas-Komunikasi-Informatika-Statistik-dan-Persandian-Kota-Pekanbaru">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>54</td>
+    <td>Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Pekanbaru</td>
+    <td>03 Februari 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#54-SertifikatApresiasi_Dinas-Komunikasi-Informatika-Statistik-dan-Persandian-Kota-Pekanbaru">Lihat</a></td>
   </tr>
 </table>
 
@@ -898,7 +912,7 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 ---
 
 ### 44. Anteraja
-**Tanggal:** 20 Febuari 2026
+**Tanggal:** 20 Februari 2026
 **Jenis:** Certificate of Appreciation
 
 <p align="center">
@@ -908,7 +922,7 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 ---
 
 ### 45. PT Tranformasi Jakarta (Transjakarta)
-**Tanggal:** 03 Febuari 2026
+**Tanggal:** 03 Februari 2026
 **Jenis:** Certificate of Appreciation
 
 <p align="center">
@@ -918,7 +932,7 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 ---
 
 ### 46. Kabupaten Klaten Tim Tanggap Insiden Siber (KlatenKab-TTIS)
-**Tanggal:** 03 Febuari 2026
+**Tanggal:** 03 Februari 2026
 **Jenis:** Certificate of Appreciation
 
 <p align="center">
@@ -987,6 +1001,26 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 53. Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Pekanbaru
+**Tanggal:** 03 Februari 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_pekanbaru_HIGH.jpg" alt="Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Pekanbaru" width="700">
+</p>
+
+---
+
+### 54. Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Pekanbaru
+**Tanggal:** 03 Februari 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_pekanbaru_MEDIUM.jpg" alt="Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Pekanbaru" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -1000,31 +1034,31 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>53</td>
+    <td>55</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#53-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
+    <td><a href="#55-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
-    <td>54</td>
+    <td>56</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#54-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#56-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
   </tr>
   <tr>
-    <td>55</td>
+    <td>57</td>
     <td>Universitas Brawijaya</td>
-    <td>18 Febuari 2026</td>
+    <td>18 Februari 2026</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#55-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
+    <td><a href="#57-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 53. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 55. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -1034,7 +1068,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 54. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 56. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -1044,8 +1078,8 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 55. Sertifikat Penghargaan Universitas Brawijaya
-**Tanggal:** 18 Febuari 2026
+### 57. Sertifikat Penghargaan Universitas Brawijaya
+**Tanggal:** 18 Februari 2026
 **Jenis:** Sertifikat Penghargaan
 
 <p align="center">
