@@ -1050,9 +1050,16 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
   <tr>
     <td>57</td>
     <td>Universitas Brawijaya</td>
-    <td>18 Februari 2026</td>
+    <td>12 Februari 2026</td>
     <td>🎖️ Sertifikat Penghargaan</td>
     <td><a href="#57-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>58</td>
+    <td>Universitas Brawijaya</td>
+    <td>18 Februari 2026</td>
+    <td>🎖️ Sertifikat Penghargaan</td>
+    <td><a href="#58-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
   </tr>
 </table>
 
@@ -1079,6 +1086,17 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 ---
 
 ### 57. Sertifikat Penghargaan Universitas Brawijaya
+**Tanggal:** 12 Februari 2026
+**Jenis:** Sertifikat Penghargaan
+
+<p align="center">
+  <img src="./SertifikatPenghargaan_Universitas-Brawijaya2.jpg" alt="Sertifikat Penghargaan Universitas Brawijaya" width="700">
+</p>
+
+---
+
+
+### 58. Sertifikat Penghargaan Universitas Brawijaya
 **Tanggal:** 18 Februari 2026
 **Jenis:** Sertifikat Penghargaan
 
