@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bug%20Hunter-Active-brightgreen?style=for-the-badge" alt="Bug Hunter Badge">
-  <img src="https://img.shields.io/badge/Certificates-63-blue?style=for-the-badge" alt="Certificate Count">
+  <img src="https://img.shields.io/badge/Certificates-69-blue?style=for-the-badge" alt="Certificate Count">
   <img src="https://img.shields.io/badge/Hall%20of%20Fame-3-purple?style=for-the-badge" alt="Hall of Fame Count">
   <img src="https://img.shields.io/badge/Focus-Vulnerability%20Reporting-orange?style=for-the-badge" alt="Focus Badge">
   <img src="https://img.shields.io/badge/NASA-VDP%20Recognized-0B3D91?style=for-the-badge&logo=nasa" alt="NASA Badge">
@@ -553,6 +553,48 @@ Selain sertifikat resmi, nama saya juga tercatat pada halaman **Hall of Fame / W
     <td>10 Oktober 2025</td>
     <td>🎖️ Certificate of Appreciation</td>
     <td><a href="#57-SertifikatApresiasi_TiTIS-BlitarKab">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>58</td>
+    <td>Kaltaraprov-CSIRT / DKISP Provinsi Kalimantan Utara</td>
+    <td>Agustus 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#58-SertifikatApresiasi_KaltaraProvCSIRT">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>59</td>
+    <td>CSIRT Universitas Terbuka (CSIRT-UT)</td>
+    <td>08 Oktober 2025</td>
+    <td>🎖️ Sertifikat Penghargaan</td>
+    <td><a href="#59-SertifikatPenghargaan_CSIRT-UT">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>60</td>
+    <td>Dinas Komunikasi dan Informatika Kota Balikpapan</td>
+    <td>06 Agustus 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#60-SertifikatApresiasi_DinasKomunikasidanInformatikaKotaBalikPapan">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>61</td>
+    <td>Institut Digital Ekonomi LPKIA</td>
+    <td>04 Agustus 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#61-SertifikatApresiasi_InstitutDigitalEkonomi_LPKIA">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>62</td>
+    <td>Pemerintah Kabupaten Demak (DemakKab-CSIRT)</td>
+    <td>27 Januari 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#62-SertifikatApresiasi_Demak">Lihat</a></td>
+  </tr>
+  <tr>
+    <td>63</td>
+    <td>Pemerintah Daerah Kabupaten Sumedang (SumedangKab-CSIRT)</td>
+    <td>06 Agustus 2026</td>
+    <td>🎖️ Certificate of Appreciation</td>
+    <td><a href="#63-SertifikatApresiasi_CSIRT-SumedangKab">Lihat</a></td>
   </tr>
 </table>
 
@@ -1140,6 +1182,83 @@ Entri ini terdiri dari dua dokumen resmi: sertifikat apresiasi dan surat pengant
 
 ---
 
+### 58. SertifikatApresiasi_KaltaraProvCSIRT
+**Institusi:** Bidang Persandian Keamanan Informasi (DKISP) — Kaltaraprov-CSIRT, Pemerintah Provinsi Kalimantan Utara
+**Nomor:** 500.12.10/10/DKISP/SERT/CYBERSEC-VUL/VIII/2026
+**Jenis:** Certificate of Appreciation
+
+Diberikan atas kerja sama dalam menemukan celah kerentanan pada website milik Pemerintah Provinsi Kalimantan Utara dan melaporkannya kepada Kaltaraprov-CSIRT. Sertifikat ini turut menyertakan lampiran hasil validasi temuan (Security Misconfiguration dan Data Breach) pada beberapa subdomain milik Pemerintah Provinsi Kalimantan Utara.
+
+<table align="center">
+  <tr>
+    <th align="center">🏅 Sertifikat Apresiasi</th>
+    <th align="center">📋 Hasil Validasi Temuan</th>
+  </tr>
+  <tr>
+    <td><img src="./SertifikatApresiasi_KaltaraProvCSIRT_1.jpg" alt="Sertifikat Apresiasi Kaltaraprov-CSIRT" width="380"></td>
+    <td><img src="./SertifikatApresiasi_KaltaraProvCSIRT_2.jpg" alt="Hasil Validasi Kaltaraprov-CSIRT" width="380"></td>
+  </tr>
+</table>
+
+---
+
+### 59. SertifikatPenghargaan_CSIRT-UT
+**Institusi:** CSIRT Universitas Terbuka (UT)
+**Tanggal:** 08 Oktober 2025
+**Jenis:** Sertifikat Penghargaan
+
+<p align="center">
+  <img src="./SertifikatPenghargaan_CSIRT-UT.jpg" alt="Sertifikat Penghargaan CSIRT Universitas Terbuka" width="700">
+</p>
+
+---
+
+### 60. SertifikatApresiasi_DinasKomunikasidanInformatikaKotaBalikPapan
+**Institusi:** Dinas Komunikasi dan Informatika Kota Balikpapan
+**Tanggal:** 06 Agustus 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_DinasKomunikasidanInformatikaKotaBalikPapan.jpg" alt="Sertifikat Apresiasi Dinas Komunikasi dan Informatika Kota Balikpapan" width="700">
+</p>
+
+---
+
+### 61. SertifikatApresiasi_InstitutDigitalEkonomi_LPKIA
+**Institusi:** Institut Digital Ekonomi LPKIA
+**Tanggal:** 04 Agustus 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_InstitutDigitalEkonomi_LPKIA.jpg" alt="Sertifikat Apresiasi Institut Digital Ekonomi LPKIA" width="700">
+</p>
+
+---
+
+### 62. SertifikatApresiasi_Demak
+**Institusi:** Pemerintah Kabupaten Demak (DemakKab-CSIRT)
+**Nomor:** 555/107/2026
+**Tanggal:** 27 Januari 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_Demak.jpg" alt="Sertifikat Apresiasi Pemerintah Kabupaten Demak" width="700">
+</p>
+
+---
+
+### 63. SertifikatApresiasi_CSIRT-SumedangKab
+**Institusi:** Pemerintah Daerah Kabupaten Sumedang (SumedangKab-CSIRT)
+**Nomor:** B/305/000.6.4.1/VIII/2026
+**Tanggal:** 06 Agustus 2026
+**Jenis:** Certificate of Appreciation
+
+<p align="center">
+  <img src="./SertifikatApresiasi_CSIRT-SumedangKab_page-0001.jpg" alt="Sertifikat Apresiasi SumedangKab-CSIRT" width="700">
+</p>
+
+---
+
 ## 🎓 Penghargaan Lainnya
 
 Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institusi, namun tetap menjadi bagian dari perjalanan dan kontribusi saya.
@@ -1153,38 +1272,38 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
     <th>Sertifikat</th>
   </tr>
   <tr>
-    <td>58</td>
+    <td>64</td>
     <td>Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi</td>
     <td>22 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#58-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
+    <td><a href="#64-sertifikat-penghargaan-csirt-banyuwangi">Lihat</a></td>
   </tr>
   <tr>
-    <td>59</td>
+    <td>65</td>
     <td>SMK Muhammadiyah Majenang</td>
     <td>03 September 2025</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#59-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
+    <td><a href="#65-sertifikat-penghargaan-smk-muhammadiyah-majenang">Lihat</a></td>
   </tr>
   <tr>
-    <td>60</td>
+    <td>66</td>
     <td>Universitas Brawijaya</td>
     <td>12 Februari 2026</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#60-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
+    <td><a href="#66-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
   </tr>
   <tr>
-    <td>61</td>
+    <td>67</td>
     <td>Universitas Brawijaya</td>
     <td>18 Februari 2026</td>
     <td>🎖️ Sertifikat Penghargaan</td>
-    <td><a href="#61-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
+    <td><a href="#67-sertifikat-penghargaan-universitas-brawijaya">Lihat</a></td>
   </tr>
 </table>
 
 ---
 
-### 58. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
+### 64. Sertifikat Penghargaan Dinas Komunikasi, Informatika, dan Persandian Kabupaten Banyuwangi
 **Tanggal:** 22 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -1194,7 +1313,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 59. Sertifikat Penghargaan SMK Muhammadiyah Majenang
+### 65. Sertifikat Penghargaan SMK Muhammadiyah Majenang
 **Tanggal:** 03 September 2025
 **Jenis:** Sertifikat Penghargaan
 
@@ -1204,7 +1323,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 60. Sertifikat Penghargaan Universitas Brawijaya
+### 66. Sertifikat Penghargaan Universitas Brawijaya
 **Tanggal:** 12 Februari 2026
 **Jenis:** Sertifikat Penghargaan
 
@@ -1214,7 +1333,7 @@ Sertifikat di luar konteks pelaporan kerentanan keamanan siber ke CSIRT/institus
 
 ---
 
-### 61. Sertifikat Penghargaan Universitas Brawijaya
+### 67. Sertifikat Penghargaan Universitas Brawijaya
 **Tanggal:** 18 Februari 2026
 **Jenis:** Sertifikat Penghargaan
 
